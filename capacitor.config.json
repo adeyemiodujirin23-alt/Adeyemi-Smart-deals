@@ -1,1 +1,5 @@
-capacitor.congig.json
+{
+  "appId": "com.adeyemismartdeals.app",
+  "appName": "ADEYEMI SMART DEALS",
+  "webDir": "."
+}
